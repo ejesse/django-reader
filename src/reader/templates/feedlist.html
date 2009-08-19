@@ -1,0 +1,24 @@
+{% if FeedName %}
+<div id="title">
+{{ FeedName }}
+<div>
+<div id="list">
+{% endif %}
+{% for Feed in FeedList %}
+<div id="entry">
+<div id="title">
+{{ Feed.title }}
+</div>
+<div id="link">
+{{ Feed.link }}
+</div>
+<div id="desc">
+{{ Feed.description }}
+</div>
+
+
+</div>
+{% endfor %}
+{% if FeedName %}
+</div>
+{% endif %}

@@ -1,0 +1,17 @@
+Used for aggregating RSS feeds.  A level of abstration is provided between 
+RSS (xml) and feedreader, using feedparser (http://www.feedparser.org/).  
+An RSS feed must be configured using Django admin interface.
+
+Development enviroment taken from 
+http://jacobian.org/writing/django-apps-with-buildout/
+
+Currently, my knowledge of setup tools is poor, and can't add feedparser,
+ must install on your own.  This goes against the isolation principal that makes buildout so awesome.
+ 
+Currently this is meant for a home media server, something that is not
+public.  If this was to go on a public facing website, do not expose the
+update views, as this would poll the RSS feed everytime it is viewed.
+
+ToDo:
+Add Functional views, templates.
+Make a file that can be executed by a Cron task for updating Feeds
