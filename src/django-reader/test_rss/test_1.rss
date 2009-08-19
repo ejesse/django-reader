@@ -1,1678 +1,0 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
-
-<rdf:RDF
- xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
- xmlns="http://purl.org/rss/1.0/"
- xmlns:ev="http://purl.org/rss/1.0/modules/event/"
- xmlns:content="http://purl.org/rss/1.0/modules/content/"
- xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
- xmlns:dc="http://purl.org/dc/elements/1.1/"
- xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
- xmlns:dcterms="http://purl.org/dc/terms/"
- xmlns:admin="http://webns.net/mvcb/"
->
-
-<channel rdf:about="http://columbus.craigslist.org/zip/">
-<title>craigslist | free stuff in columbus</title>
-<link>http://columbus.craigslist.org/zip/</link>
-<description></description>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:publisher>webmaster@craigslist.org</dc:publisher>
-<dc:creator>webmaster@craigslist.org</dc:creator>
-<dc:source>http://columbus.craigslist.org/zip//</dc:source>
-<dc:title>craigslist | free stuff in columbus</dc:title>
-<dc:type>Collection</dc:type>
-<syn:updateBase>2009-08-16T09:53:04-07:00</syn:updateBase>
-<syn:updateFrequency>4</syn:updateFrequency>
-<syn:updatePeriod>hourly</syn:updatePeriod>
-<items>
- <rdf:Seq>
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1326047327.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1326032248.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1326022482.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1326013285.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1326011339.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1326006533.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1326004904.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325995166.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325988994.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325963283.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325927713.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325917601.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325881140.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325844689.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325813817.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325712623.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325669897.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325658386.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325614267.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325288865.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325526736.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325514159.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325498597.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325391700.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325389748.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325374388.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325357077.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325334971.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325330209.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325328184.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325326583.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325326155.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325324355.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325242660.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325231260.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325174639.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325145308.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325135606.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325104466.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325096937.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1325057388.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324985314.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324892676.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324883992.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324824735.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324800964.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324803695.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324792624.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/sys/1324763744.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324761122.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324735744.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324730810.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324733005.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324717563.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324708799.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324693019.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324567898.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324544862.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324541228.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324528146.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324508567.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324494648.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324491342.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324485202.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324483144.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324477282.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324426510.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324415630.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324360975.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324336007.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324325498.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324293943.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324279204.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324226102.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324105463.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1324034158.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1323915485.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1323823530.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1323819687.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1323794118.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1323764179.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1323711837.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1323619874.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1323609006.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1323456193.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1323402184.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1323390199.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1323368618.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1323315963.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1323282299.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1323168707.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1323100714.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1322930390.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1322911426.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1322836235.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1322703598.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1322657954.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1322655283.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1322562368.html" />
-  <rdf:li rdf:resource="http://columbus.craigslist.org/zip/1322529760.html" />
- </rdf:Seq>
-</items>
-</channel>
-<item rdf:about="http://columbus.craigslist.org/zip/1326047327.html">
-<title><![CDATA[at the curb: dresser and small table (Royal Dornoch Cir. Delaware 43015)]]></title>
-<link>http://columbus.craigslist.org/zip/1326047327.html</link>
-<description><![CDATA[Tall, 4 drawer dresser.  Was faux painted years ago.  It has been in the garage as storage.  <br>
-<br>
-Small natural wood colored table.  Could be round or rectangular (sides can fold down).  Nice for a small apt. eating area.  legs are detached and needs some washers and bolts to screw on.  ]]></description>
-<dc:date>2009-08-16T12:46:53-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1326047327.html</dc:source>
-<dc:title><![CDATA[at the curb: dresser and small table (Royal Dornoch Cir. Delaware 43015)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-16T12:46:53-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1326032248.html">
-<title><![CDATA[TOYS TOYS TOYS (Grove City)]]></title>
-<link>http://columbus.craigslist.org/zip/1326032248.html</link>
-<description><![CDATA[Irwin Ave. Just off Richard Ave in Grove City. At the curb waiting for the trash man tomorrow. ]]></description>
-<dc:date>2009-08-16T12:37:42-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1326032248.html</dc:source>
-<dc:title><![CDATA[TOYS TOYS TOYS (Grove City)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-16T12:37:42-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1326022482.html">
-<title><![CDATA[Curb Alert! Free Couch  (Point Pleasant Drive, Hilliard 43026)]]></title>
-<link>http://columbus.craigslist.org/zip/1326022482.html</link>
-<description><![CDATA[Couch on the curb. FREE  Located  just off Leap Road on Point Pleasant Drive. ]]></description>
-<dc:date>2009-08-16T12:33:07-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1326022482.html</dc:source>
-<dc:title><![CDATA[Curb Alert! Free Couch  (Point Pleasant Drive, Hilliard 43026)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-16T12:33:07-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1326013285.html">
-<title><![CDATA[free dresser (hilliard)]]></title>
-<link>http://columbus.craigslist.org/zip/1326013285.html</link>
-<description><![CDATA[free  old dresser and chest of drawers you pick up call 226-1009]]></description>
-<dc:date>2009-08-16T12:27:10-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1326013285.html</dc:source>
-<dc:title><![CDATA[free dresser (hilliard)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-16T12:27:10-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1326011339.html">
-<title><![CDATA[FREE STUFF!-Moving Tomorrow (Columbus/ UA)]]></title>
-<link>http://columbus.craigslist.org/zip/1326011339.html</link>
-<description><![CDATA[We have a bunch of free stuff that won't fit in our moving pod we need to get rid of by this evening.  <br>
-2 -five shelf bookcases<br>
-2 rugs- 5'x7' and 9'x12'<br>
-plastic patio chairs and small plastic table<br>
-a metal/fabric outdoor lounge chair<br>
-a computer monitor<br>
-a 2 video VHS player<br>
-an eliptical<br>
-a filing cabinet<br>
-and much more!!! Come take a look!!!<br>
-We are located at 1030 Folkstone Rd Columbus -- south of Henderson Rd and just off Kenny Rd.  Look for the moving pods and you'll find us!<br>
-Everything must go by this evening or will be taken to charity.  <br>
-]]></description>
-<dc:date>2009-08-16T12:26:02-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1326011339.html</dc:source>
-<dc:title><![CDATA[FREE STUFF!-Moving Tomorrow (Columbus/ UA)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-16T12:26:02-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1326006533.html">
-<title><![CDATA[2 Large Storage Units (LP Record or Scrapbook Paper) (Galloway 43119)]]></title>
-<link>http://columbus.craigslist.org/zip/1326006533.html</link>
-<description><![CDATA[We have two large storage units.  These were originally used as LP Record racks in a retail store and more recently were used in a scrapbook store to display 12 by 12 paper.  They would also be great in a play area to use to store toys.  
-<br>
-<br>
-Each unit has 8 sections on the top and 2 large area on the bottom.  They are bulky but can be moved with ease by two able bodied adults.  
-<br>
-<br>
-Each unit measures 56 inches long by 24 inches deep.  They stand 44.5 inches from floor to top of the back and 32 inches from floor to edge on the front. 
-<br>
-<br>
-Serious Inquiries only!  Please let us know if you have any questions.]]></description>
-<dc:date>2009-08-16T12:23:21-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1326006533.html</dc:source>
-<dc:title><![CDATA[2 Large Storage Units (LP Record or Scrapbook Paper) (Galloway 43119)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-16T12:23:21-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1326004904.html">
-<title><![CDATA[32" Exterior Door (Hilliard)]]></title>
-<link>http://columbus.craigslist.org/zip/1326004904.html</link>
-<description><![CDATA[We have a 32" exterior back door, 15 lite, right handed door.<br>
-Good condition, just replaced it with a different one.<br>
-First picture is inside of door, the second picture is outside of door.]]></description>
-<dc:date>2009-08-16T12:22:45-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1326004904.html</dc:source>
-<dc:title><![CDATA[32" Exterior Door (Hilliard)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-16T12:22:45-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325995166.html">
-<title><![CDATA[Free Foozeball Table (Bethel Rd col oh)]]></title>
-<link>http://columbus.craigslist.org/zip/1325995166.html</link>
-<description><![CDATA[Free Foozeball table. Shown below. First come first serve. Must bring your own transportation. Will delete posting when gone. Address 5211 Devontry Ln Col oh 43220]]></description>
-<dc:date>2009-08-16T12:17:07-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325995166.html</dc:source>
-<dc:title><![CDATA[Free Foozeball Table (Bethel Rd col oh)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-16T12:17:07-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325988994.html">
-<title><![CDATA[Free Gas Grill w/ Cover (No Propane Tank) (Lancaster)]]></title>
-<link>http://columbus.craigslist.org/zip/1325988994.html</link>
-<description><![CDATA[I have a Chargrill Gas Grill in decent shape that is free to whoever will come pick it up.  It has a cover on it but it does not come with a gas tank.  Grill is in front of my house at the curb.  Email for directions or call 740-215-7794.]]></description>
-<dc:date>2009-08-16T12:14:06-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325988994.html</dc:source>
-<dc:title><![CDATA[Free Gas Grill w/ Cover (No Propane Tank) (Lancaster)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-16T12:14:06-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325963283.html">
-<title><![CDATA[microwave (columbus)]]></title>
-<link>http://columbus.craigslist.org/zip/1325963283.html</link>
-<description><![CDATA[over the range microwave does not heat up everything else works fine]]></description>
-<dc:date>2009-08-16T11:58:09-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325963283.html</dc:source>
-<dc:title><![CDATA[microwave (columbus)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-16T11:58:09-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325927713.html">
-<title><![CDATA[Zuccini and Summer Squash - freshly harvested today (Mount Vernon)]]></title>
-<link>http://columbus.craigslist.org/zip/1325927713.html</link>
-<description><![CDATA[Perfect for summer grilling or zuchini bread~ just come and pick them up... they are free to hungry tummies and laying on the garden bench~~<br>
-<br>
-thank you - enjoy<br>
-<br>
-200 Coshocton Ave, Mount Vernon 43050]]></description>
-<dc:date>2009-08-16T10:37:11-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325927713.html</dc:source>
-<dc:title><![CDATA[Zuccini and Summer Squash - freshly harvested today (Mount Vernon)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-16T10:37:11-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325917601.html">
-<title><![CDATA[Scrap Metal - two garage door tracks (43221)]]></title>
-<link>http://columbus.craigslist.org/zip/1325917601.html</link>
-<description><![CDATA[On the curb - will delete once gone.<br>
-<br>
-2389 Cranford Road, Columbus, OH 43221<br>
-<br>
-Thanks!]]></description>
-<dc:date>2009-08-16T10:28:05-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325917601.html</dc:source>
-<dc:title><![CDATA[Scrap Metal - two garage door tracks (43221)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-16T10:28:05-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325881140.html">
-<title><![CDATA[Curb Alert-Used Desk (Hilliard)]]></title>
-<link>http://columbus.craigslist.org/zip/1325881140.html</link>
-<description><![CDATA[7 drawer dark brown desk with chair will be available for pickup after 8pm tonight. No major scratches or dents.<br>
-Location:  1830 Galleon Blvd<br>
-Hilliard OH 43026<br>
-<br>
-]]></description>
-<dc:date>2009-08-16T09:54:24-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325881140.html</dc:source>
-<dc:title><![CDATA[Curb Alert-Used Desk (Hilliard)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-16T09:54:24-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325844689.html">
-<title><![CDATA[refrigerator (columbus ohio)]]></title>
-<link>http://columbus.craigslist.org/zip/1325844689.html</link>
-<description><![CDATA[mini refrig not working. small stroller. monitor & computer stuff, and more. (will not hold items) also having a small yard sell with thing as cheap as a 1.00. lots of new stuff for 5.00.     3319 east hudson st.  by airport/670. ]]></description>
-<dc:date>2009-08-16T09:14:39-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325844689.html</dc:source>
-<dc:title><![CDATA[refrigerator (columbus ohio)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-16T09:14:39-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325813817.html">
-<title><![CDATA[FREE YARD SALE ITEMS (MOUNT VERNON)]]></title>
-<link>http://columbus.craigslist.org/zip/1325813817.html</link>
-<description><![CDATA[WE HAD A YARD SALE ON SATURDAY THAT DIDNT GO SO WELL, AND THERE ARE A BUCH OF LEFTOVER ITEMS: BABY BOY STROLLER, HIGH CHAIR, SWING. MICELLANEOUS HOUSEHOLD ITEMS: MICROWAVES, DISHES, CLOTHING, ELECTRONICS, EXC . THER IS ENOUGH NICE  LEFTOVER STUFF FOR SOMEONE TO HAVE THEIR OWN GARAGE/YARD SALE. EVERYTHING IS LOCATED IN OUR FRONT YARD AT 5700 POSSUM STREET, MOUNT VERNON. IF THERE IS SOMETHING YOU CAN USE,  FEEL FREE TO GIVE IT A NEW HOME.]]></description>
-<dc:date>2009-08-16T08:30:29-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325813817.html</dc:source>
-<dc:title><![CDATA[FREE YARD SALE ITEMS (MOUNT VERNON)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-16T08:30:29-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325712623.html">
-<title><![CDATA[free=lots of stuff,but must take all (columbus)]]></title>
-<link>http://columbus.craigslist.org/zip/1325712623.html</link>
-<description><![CDATA[I have a electric dryer needs belt,front fender and door for a mid 90"s jeep,5 disc dvd player that was working,a black cordless phone that does work,a few rolls of unused wallpaper.....Heres the deal i just redone my house and i took alot of carpet out i have one big room of carpet and some that i already cut into 3 feet pieces and a metal screen door,a broken wooded table and some other junk ...you have to take everything out of here ...so you will need a truck..i need it all gone asap...614 824-5654...by tommorow i will problebly have more stuff,but it does work i just need to see if my husband will let me give it away...]]></description>
-<dc:date>2009-08-16T03:12:11-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325712623.html</dc:source>
-<dc:title><![CDATA[free=lots of stuff,but must take all (columbus)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-16T03:12:11-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325669897.html">
-<title><![CDATA[FREE, KIDS BASKETBALL, BASEBALL, SOCCER SPORTS CENTER (WESTERVILLE)]]></title>
-<link>http://columbus.craigslist.org/zip/1325669897.html</link>
-<description><![CDATA[FREE, FREE, FREE, 1ST COME 1ST SERVE...<br>
-<br>
-KIDS ELECTRONIC SPORTS CENTER!!!<br>
-<br>
-BASKETBALL, BASEBALL, FOOTBALL, GOLF & SOCCER. VERY COOL!!!<br>
-<br>
-FREE, FREE, FREE, 1ST COME 1ST SERVE...]]></description>
-<dc:date>2009-08-16T01:41:20-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325669897.html</dc:source>
-<dc:title><![CDATA[FREE, KIDS BASKETBALL, BASEBALL, SOCCER SPORTS CENTER (WESTERVILLE)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-16T01:41:20-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325658386.html">
-<title><![CDATA[papa murphy's (marysville)]]></title>
-<link>http://columbus.craigslist.org/zip/1325658386.html</link>
-<description><![CDATA[Free coupons for papa murphy's pizza. bought from boy scouts dont need anymore. let me know if interested]]></description>
-<dc:date>2009-08-16T01:22:32-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325658386.html</dc:source>
-<dc:title><![CDATA[papa murphy's (marysville)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-16T01:22:32-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325614267.html">
-<title><![CDATA[Curb Alert kids stuff (Columbus)]]></title>
-<link>http://columbus.craigslist.org/zip/1325614267.html</link>
-<description><![CDATA[ High chair, small stroller, few toyes. A little dirty but should clean up with water and soap.<br>
-<br>
-5061 Sharon Hill 43235<br>
-<br>
-<br>
-]]></description>
-<dc:date>2009-08-16T00:16:35-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325614267.html</dc:source>
-<dc:title><![CDATA[Curb Alert kids stuff (Columbus)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-16T00:16:35-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325288865.html">
-<title><![CDATA[Bookcase (Clintonville)]]></title>
-<link>http://columbus.craigslist.org/zip/1325288865.html</link>
-<description><![CDATA[Old bookcase that was left in the garage of the home I just purchased, it's beat up but would probably be fine for another garage or basement.  or use the wood as you see fit.<br>
-<br>
-Reply to Craigslist email link above for pick up location.]]></description>
-<dc:date>2009-08-15T22:34:41-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325288865.html</dc:source>
-<dc:title><![CDATA[Bookcase (Clintonville)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T22:34:41-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325526736.html">
-<title><![CDATA[free dresser need gone asap  (grove city )]]></title>
-<link>http://columbus.craigslist.org/zip/1325526736.html</link>
-<description><![CDATA[an old dresser need gone asap cream color two of the dresser drawers came off but can be staple back and have them the dresser is long but does not take up much room just need gone thanks ]]></description>
-<dc:date>2009-08-15T22:34:36-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325526736.html</dc:source>
-<dc:title><![CDATA[free dresser need gone asap  (grove city )]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T22:34:36-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325514159.html">
-<title><![CDATA[27 inch TV (Marysville)]]></title>
-<link>http://columbus.craigslist.org/zip/1325514159.html</link>
-<description><![CDATA[Free, just take it. <br>
-The tv is having issues.  It cut off one night and wont come back on.  No idea what is wrong but not wanting to mess with it.  <br>
-Phillips brand. Tube tv. It is 9 or so years old.  ]]></description>
-<dc:date>2009-08-15T22:22:06-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325514159.html</dc:source>
-<dc:title><![CDATA[27 inch TV (Marysville)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T22:22:06-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325498597.html">
-<title><![CDATA[Curbside Alert (Reynoldsburg)]]></title>
-<link>http://columbus.craigslist.org/zip/1325498597.html</link>
-<description><![CDATA[There is a computer desk and chest of drawers on the curb at 6704 Chatsworth Ct., (Indenpendence Village).  ]]></description>
-<dc:date>2009-08-15T22:07:17-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325498597.html</dc:source>
-<dc:title><![CDATA[Curbside Alert (Reynoldsburg)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T22:07:17-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325391700.html">
-<title><![CDATA[Free Baseball Table (New Albany)]]></title>
-<link>http://columbus.craigslist.org/zip/1325391700.html</link>
-<description><![CDATA[Free table with baseball bat for legs.  This side in the photo has a folding table pull out.  The other side has three drawers.  Must be picked up tonight or by 9am tomorrow.]]></description>
-<dc:date>2009-08-15T20:23:52-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325391700.html</dc:source>
-<dc:title><![CDATA[Free Baseball Table (New Albany)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T20:23:52-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325389748.html">
-<title><![CDATA[FREE @ Crub...please take (SmokeyRow&Summitview-Dublin/Powell)]]></title>
-<link>http://columbus.craigslist.org/zip/1325389748.html</link>
-<description><![CDATA[One item left....<br>
-<br>
-PLEASE DO NOT KNOCK ON DOOR FOR QUESTIONS......EVERYTHING AS IS......<br>
-2133 Millrow Loop Dublin, OH 43016<br>
-<br>
-****PLEASE TAKE WHAT YOU WANT****NO HOLDS, CALLS OR EMAILS PLEASE****<br>
-<br>
-FREE items....<br>
-<br>
-* 2 bowl offwhite bathroom sink + faucets. 60.5" x 22" ***has crack between 2 sink bowls*** <br>
-<br>
-<br>
-]]></description>
-<dc:date>2009-08-15T20:22:05-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325389748.html</dc:source>
-<dc:title><![CDATA[FREE @ Crub...please take (SmokeyRow&Summitview-Dublin/Powell)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T20:22:05-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325374388.html">
-<title><![CDATA[curb alert (sailing and ilo off karl)]]></title>
-<link>http://columbus.craigslist.org/zip/1325374388.html</link>
-<description><![CDATA[there is an interior door with hinges and an old kitchen table from it looks like the 50s or 60s with a leaf and 4 legs . will remove post when i see it is gone.      the table is gone. door is still there.]]></description>
-<dc:date>2009-08-15T20:08:41-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325374388.html</dc:source>
-<dc:title><![CDATA[curb alert (sailing and ilo off karl)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T20:08:41-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325357077.html">
-<title><![CDATA[OLDER HUTCH-GONE!! (Lewis Center)]]></title>
-<link>http://columbus.craigslist.org/zip/1325357077.html</link>
-<description><![CDATA[Free older hutch. First come, first to take it. Will be available for pick up from 10 am- noon Sunday morning.  NO EMAILS. Knock on door and I will take you to it in the garage. If someone picks it up,  I will post that it is gone. <br>
-Our house does not show up on Mapquest as it is in a new development. Address is 6451 Port Ct, Lewis Center, OH; basic directions are...we are in the Lake Shore development off of Old State Road, North of Orange Road. Port Court is the second cul-de-sac on the left.]]></description>
-<dc:date>2009-08-15T19:52:50-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325357077.html</dc:source>
-<dc:title><![CDATA[OLDER HUTCH-GONE!! (Lewis Center)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T19:52:50-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325334971.html">
-<title><![CDATA[couple boxes free stuff - clothes, shoes, plates, misc (gahanna)]]></title>
-<link>http://columbus.craigslist.org/zip/1325334971.html</link>
-<description><![CDATA[These are boxes with girls and womens clothes mostly small and mediums. A couple pair of shoes, household stuff, plates, dishes, cups, antique gas heater, electric can opener girls/ teen shoes mostly size 6.  ans other misc. Must take all. and must be goneasap.  If your interested please call me at 614-323-9698. Thanks! ]]></description>
-<dc:date>2009-08-15T19:33:43-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325334971.html</dc:source>
-<dc:title><![CDATA[couple boxes free stuff - clothes, shoes, plates, misc (gahanna)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T19:33:43-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325330209.html">
-<title><![CDATA[Gardening Flat and Plant Containers (Grove City)]]></title>
-<link>http://columbus.craigslist.org/zip/1325330209.html</link>
-<description><![CDATA[I am offering a collection of 6 gardening black plastic flat holders (the type you get with a flat worth of plants in nurseries), many plant triple cell containers (the type that hold plants when you buy flats of plants). Must take all. <br>
-<br>
-Serious Inquiries Only Please<br>
-Please do not be a no show<br>
-<br>
-Grove City area<br>
-<br>
-Thank you, Susan<br>
-]]></description>
-<dc:date>2009-08-15T19:29:43-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325330209.html</dc:source>
-<dc:title><![CDATA[Gardening Flat and Plant Containers (Grove City)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T19:29:43-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325328184.html">
-<title><![CDATA[Large bag of Stryofoam Pieces (Grove City)]]></title>
-<link>http://columbus.craigslist.org/zip/1325328184.html</link>
-<description><![CDATA[I have to offer a 13 gallon sized bag of large corner shaped and rectngular pieces of white stryofoam (the kind used to cushion large boxed appliances). <br>
-<br>
-Grive City area 43123<br>
-Please don't be a no show<br>
-I cannot make phone calls<br>
-]]></description>
-<dc:date>2009-08-15T19:27:54-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325328184.html</dc:source>
-<dc:title><![CDATA[Large bag of Stryofoam Pieces (Grove City)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T19:27:54-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325326583.html">
-<title><![CDATA[The "CLUB" Anti Car Theft Device Non-Locking (Grove City)]]></title>
-<link>http://columbus.craigslist.org/zip/1325326583.html</link>
-<description><![CDATA[I am offering car theft deterent device "the Club". The key has been lost, so it cannot lock, but you can still put it on your steering wheel to give appearance that it is locked.<br>
-<br>
-Serious Inquiries Only Please<br>
-Grove City Area<br>
-I cannot make phone calls<br>
-<br>
-Thank You!<br>
-<br>
-Susan<br>
-]]></description>
-<dc:date>2009-08-15T19:26:32-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325326583.html</dc:source>
-<dc:title><![CDATA[The "CLUB" Anti Car Theft Device Non-Locking (Grove City)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T19:26:32-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325326155.html">
-<title><![CDATA[pool table/no legs]]></title>
-<link>http://columbus.craigslist.org/zip/1325326155.html</link>
-<description><![CDATA[I have a pool table that has no legs free to anyone who can get it out of basement!]]></description>
-<dc:date>2009-08-15T19:26:08-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325326155.html</dc:source>
-<dc:title><![CDATA[pool table/no legs]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T19:26:08-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325324355.html">
-<title><![CDATA[Several Bags of Shredded Paper (Grove City)]]></title>
-<link>http://columbus.craigslist.org/zip/1325324355.html</link>
-<description><![CDATA[I have several small garbage bags of shredded paper to give away. Please respond with a time you can pick up and please don't be a no show.<br>
-<br>
-Grove City area<br>
-Serious Inquiries Only Please<br>
-I cannot make phone calls<br>
-]]></description>
-<dc:date>2009-08-15T19:24:34-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325324355.html</dc:source>
-<dc:title><![CDATA[Several Bags of Shredded Paper (Grove City)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T19:24:34-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325242660.html">
-<title><![CDATA[Curb Alert!! Packing peanuts]]></title>
-<link>http://columbus.craigslist.org/zip/1325242660.html</link>
-<description><![CDATA[A Large box with packing peanuts in it will be sitting next to a dumpster behind 470 E Norwich St, Col., OH, 43201.<br>
-<br>
-The easiest way to find it will be to google the above address, park in front, and walk behind and look for the dumpster!<br>
-<br>
-Happy pickings]]></description>
-<dc:date>2009-08-15T18:18:28-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325242660.html</dc:source>
-<dc:title><![CDATA[Curb Alert!! Packing peanuts]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T18:18:28-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325231260.html">
-<title><![CDATA[free refrigerator @ 80 euclid ave. off of N. High (2 blocks north of 5th ave. and N.High st.)]]></title>
-<link>http://columbus.craigslist.org/zip/1325231260.html</link>
-<description><![CDATA[I moved into a OSU campus double home that had a refrigerator that appeared to not be working. The food that is in it is smelling pretty rank so I don't want to clean it out. I have my own so I'm using it instead. It's about a 19 cubic foot and I would imagine it weighs enough to get $20 - $30 at the scrap yard. If you are really motivated and if you have a dolly you could knock on my door (watch out for the Black Guard Dog) and go into my basement for the Free dryer as well.<br>
- between the both of these you might as well say I'm giving you  $40 - $50, because you'll get about that at the scrap yard. I am not going to PAY anything to get rid of these. If I had to pay anything I would just borrow a utility trailer and take them to get money myself ,but someone stole my hitch ball. Come get these. I can't guarantee I'll be home so if you want to email me to get the dryer that would help. Email me at '   buildr42@aol.com   ' if you want these. <br>
-                                                                                                                                                                          Thanks, Joe<br>
-]]></description>
-<dc:date>2009-08-15T18:17:49-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325231260.html</dc:source>
-<dc:title><![CDATA[free refrigerator @ 80 euclid ave. off of N. High (2 blocks north of 5th ave. and N.High st.)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T18:17:49-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325174639.html">
-<title><![CDATA[Free at curb! (Grandview)]]></title>
-<link>http://columbus.craigslist.org/zip/1325174639.html</link>
-<description><![CDATA[Garage sale remnants.  Stools, building supplies, home decor, rugs, car turtle (storage), lots more.  Feel free to stop by and rummage.  1122 Fairview Ave (south of First Ave.) Grandview Heights.]]></description>
-<dc:date>2009-08-15T17:28:55-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325174639.html</dc:source>
-<dc:title><![CDATA[Free at curb! (Grandview)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T17:28:55-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325145308.html">
-<title><![CDATA[free: several bags of clothes (Newark)]]></title>
-<link>http://columbus.craigslist.org/zip/1325145308.html</link>
-<description><![CDATA[I have four bags of womens clothes sizes 14-16 and two or three bags of kids clothes, mostly boys sizes 5-7 Please take all, and get rid of what you don't want. I am just outside of Newark, towards Hanover. I prefer pickup be today. Thanks, Donna]]></description>
-<dc:date>2009-08-15T17:08:34-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325145308.html</dc:source>
-<dc:title><![CDATA[free: several bags of clothes (Newark)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T17:08:34-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325135606.html">
-<title><![CDATA[Free!!! Curb Alert (Worthington, OH )]]></title>
-<link>http://columbus.craigslist.org/zip/1325135606.html</link>
-<description><![CDATA[1068 Pacific Court<br>
-Worthington, OH<br>
-<br>
-I have just cleaned out my crawl space and have several things that I can not use anymore.  PLEASE DO NOT KNOCK JUST HELP YOURSELF!<br>
-I will not respond to emails OR UPDATE THIS LISTING. If it is there. . . feel free to take it. . . . if it is no longer there. . . someone has beat you to it.<br>
-<br>
-1 - computer monitor (older style)<br>
-1 - scanner for computer (older style)<br>
-1 - printer with cords <br>
-1 - small christmas tree already decorated<br>
-1- piece of over the shoulder luggage<br>
-1 - kids drumset (missing a drum/beat up. . . )<br>
-1 -  kids camping/lawn chair<br>
-BIG MANS CLOTHES XL and XXL<br>
-boxes that may be able to be re-used for moving etc. <br>
-other things may hit the curb too as we go. . . <br>
-]]></description>
-<dc:date>2009-08-15T17:01:34-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325135606.html</dc:source>
-<dc:title><![CDATA[Free!!! Curb Alert (Worthington, OH )]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T17:01:34-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325104466.html">
-<title><![CDATA[Free Fuel Oil Tank (Canal Winchester)]]></title>
-<link>http://columbus.craigslist.org/zip/1325104466.html</link>
-<description><![CDATA[changed to gas so need to get rid of fuel oil tank.]]></description>
-<dc:date>2009-08-15T16:49:33-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325104466.html</dc:source>
-<dc:title><![CDATA[Free Fuel Oil Tank (Canal Winchester)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T16:49:33-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325096937.html">
-<title><![CDATA[free entertainment stand (east)]]></title>
-<link>http://columbus.craigslist.org/zip/1325096937.html</link>
-<description><![CDATA[i have a free  a entertainment stand, free come take it  call me at 614 405 6559.Today or sunday only]]></description>
-<dc:date>2009-08-15T16:35:43-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325096937.html</dc:source>
-<dc:title><![CDATA[free entertainment stand (east)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T16:35:43-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1325057388.html">
-<title><![CDATA[Curb Alert Free Stuff (Groveport)]]></title>
-<link>http://columbus.craigslist.org/zip/1325057388.html</link>
-<description><![CDATA[Lots of free stuff on curb.   entertainment center in decent shape, large picture,   The other items are gone.  <br>
-Items can  be picked up at<br>
-3914 Platte Ct<br>
-Groveport, OH  43125]]></description>
-<dc:date>2009-08-15T16:12:24-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1325057388.html</dc:source>
-<dc:title><![CDATA[Curb Alert Free Stuff (Groveport)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T16:12:24-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324985314.html">
-<title><![CDATA[black wood futon platform - no frame]]></title>
-<link>http://columbus.craigslist.org/zip/1324985314.html</link>
-<description><![CDATA[We salvaged this black futon after the arms broke.  Used its platform to hold a full/queen matress off the floor.  Finally got a bed frame.  Dont want to toss it. Only have the two parts of the slatted platform.  Great for scraps for crafts.  Or use it to build a sofa or platform bed.  be creative.  save it from the landfill.<br>
-<br>
-will remove post when gone.<br>
-<br>
-It's out front---<br>
-905 meeklynn dr 43235 ]]></description>
-<dc:date>2009-08-15T15:26:06-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324985314.html</dc:source>
-<dc:title><![CDATA[black wood futon platform - no frame]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T15:26:06-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324892676.html">
-<title><![CDATA[Senior items:walker,grab,shower assist (Westerville)]]></title>
-<link>http://columbus.craigslist.org/zip/1324892676.html</link>
-<description><![CDATA[ Someone can use these items for an aging parent. First a nice walker with wheels, second a hand grab extender for someone <br>
-to use to pick up things they can't reach and finally a set of mountable grab bars that can be used in the bathroom,tub and shower. <br>
-I only ask that you pass them on to someone when you don't need them any longer. Call 403-7613 and come pick them up.]]></description>
-<dc:date>2009-08-15T14:30:59-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324892676.html</dc:source>
-<dc:title><![CDATA[Senior items:walker,grab,shower assist (Westerville)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T14:30:59-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324883992.html">
-<title><![CDATA[Curb alert: great free stuff! (Clintonville)]]></title>
-<link>http://columbus.craigslist.org/zip/1324883992.html</link>
-<description><![CDATA[Furniture, games, tools, toys, clothes. All must go!  Remnants of a Wildly great yardsale but we've got to be done. Come take it all.<br>
-40 northridge 43214 ]]></description>
-<dc:date>2009-08-15T14:26:06-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324883992.html</dc:source>
-<dc:title><![CDATA[Curb alert: great free stuff! (Clintonville)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T14:26:06-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324824735.html">
-<title><![CDATA[Free baby and toddler clothes (Gahanna)]]></title>
-<link>http://columbus.craigslist.org/zip/1324824735.html</link>
-<description><![CDATA[2- 6-9 month girls outfits one is bambi(purple) the other is precious moments(pink) both are shirt and overall combos and both brand new one still with a tag.<br>
-1- 6-9 month girls snowsuit whinnie the pooh and its pink this was worn once.<br>
-5- 3T girls pants (colors are light pink, purple, jean, turquios, plum)<br>
-1- 2T girls winter coat (colors are light and dark purple with some white and a little bit of lime green)<br>
-1- Crib/toddler bed sheet ( white with blue and green A B C's and pink swirls, and yellow stars)<br>
-<br>
-Sorry no pictues but I discribed as best as I could...]]></description>
-<dc:date>2009-08-15T13:53:12-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324824735.html</dc:source>
-<dc:title><![CDATA[Free baby and toddler clothes (Gahanna)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T13:53:12-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324800964.html">
-<title><![CDATA[Lots of K &amp; Co.  Scrapbooking Idea Booklets (Dublin, OH)]]></title>
-<link>http://columbus.craigslist.org/zip/1324800964.html</link>
-<description><![CDATA[we probably have 20 different booklets, multiple copies totaling 200 maybe??<br>
-<br>
-Each is multiple pages, 8.5 x 5.5. Published between 1999 and 2004.<br>
-Includes booklets with scrapbook layout ideas from Tim Coffey, Brenda Walton, Kimberly Hodges and popular patterns such as La Boutique, Life's Journey, etc.<br>
-Take as many as you want before they are tossed away.<br>
-<br>
-Also have listed some scrapbooking items for sale:<br>
-<br>
-embossed vellum and leather 12x12 sheets, Ole Miss & UNC stickers / paper<br>
-<a href="http://columbus.craigslist.org/art/1324444130.html"  rel="nofollow">http://columbus.craigslist.org/art/1324444130.html</a><br>
-<br>
-Green scrapbooks and photo albums that can be personalized on the front cover, prices vary<br>
-<a href="http://columbus.craigslist.org/art/1292858122.html"  rel="nofollow">http://columbus.craigslist.org/art/1292858122.html</a><br>
-<br>
-Delta Gamma stickers and adhesive frames<br>
-<a href="http://columbus.craigslist.org/art/1324760289.html"  rel="nofollow">http://columbus.craigslist.org/art/1324760289.html</a> <br>
-<br>
-OSU (Ohio State / Buckeyes) album ... <a href="http://columbus.craigslist.org/art/1278869608.html"  rel="nofollow">http://columbus.craigslist.org/art/1278869608.html</a> <br>
-<br>
-We are moving. To see other items, search Craigslist for Jenkins Basement Sale.<br>
-All items come from a clean, smoke-free, pet-free home.<br>
-<a href="http://columbus.craigslist.org/search/sss?query=Jenkins%20basement%20sale"  rel="nofollow">http://columbus.craigslist.org/search/sss?query=Jenkins%20basement%20sale</a><br>
-<br>
-E-mail your contact phone numbers to proceed.<br>
-]]></description>
-<dc:date>2009-08-15T13:45:37-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324800964.html</dc:source>
-<dc:title><![CDATA[Lots of K &amp; Co.  Scrapbooking Idea Booklets (Dublin, OH)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T13:45:37-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324803695.html">
-<title><![CDATA[FREE Treated Lumber from fence that was torn down, free delivery (Powell)]]></title>
-<link>http://columbus.craigslist.org/zip/1324803695.html</link>
-<description><![CDATA[E-mail me by 2:45PM today, will deliver anywhere around Franklin county.  <br>
-<br>
-FREE DELIVERY...I need this gone so I can use my car hauler TODAY.   E-mail me with your phone number and location, I need this gone now.]]></description>
-<dc:date>2009-08-15T13:41:39-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324803695.html</dc:source>
-<dc:title><![CDATA[FREE Treated Lumber from fence that was torn down, free delivery (Powell)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T13:41:39-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324792624.html">
-<title><![CDATA[FREE BEAUTY STUFF (Upper Arlington)]]></title>
-<link>http://columbus.craigslist.org/zip/1324792624.html</link>
-<description><![CDATA[I have a box of beauty products out on the curb in front of 4887 Nugent Drive.....almost everything in the box has never been used....lotion, shampoo, conditioner, hair products.....etc.....if you want it, come get it.   It is in a black box right off the street, you can't miss it.  Hope you can use this stuff, it has been in my linen closet for months.<br>
-<br>
-]]></description>
-<dc:date>2009-08-15T13:36:07-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324792624.html</dc:source>
-<dc:title><![CDATA[FREE BEAUTY STUFF (Upper Arlington)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T13:36:07-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/sys/1324763744.html">
-<title><![CDATA[Curb Alert - Old MS Word 6.0 on diskettes (Westerville)]]></title>
-<link>http://columbus.craigslist.org/sys/1324763744.html</link>
-<description><![CDATA[Cleaning out files.  This is a 7-diskette set (3.5" diskettes) of Microsoft Word 6.0 for Windows.<br>
-This is very old - but still should install on WINXP and probably on Vista.  Includes User Manual.  <br>
-Originally this would have been used on Windows 95 version of Windows.  Offered as is - I have not<br>
-tried to use these diskettes, but believe they will work fine!!]]></description>
-<dc:date>2009-08-15T13:19:54-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/sys/1324763744.html</dc:source>
-<dc:title><![CDATA[Curb Alert - Old MS Word 6.0 on diskettes (Westerville)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T13:19:54-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324761122.html">
-<title><![CDATA[Free Hot Tub (Morse/Hamilton)]]></title>
-<link>http://columbus.craigslist.org/zip/1324761122.html</link>
-<description><![CDATA[FREE  hot tub . Needs work.]]></description>
-<dc:date>2009-08-15T13:18:29-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324761122.html</dc:source>
-<dc:title><![CDATA[Free Hot Tub (Morse/Hamilton)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T13:18:29-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324735744.html">
-<title><![CDATA[1 large bag misc kids toys (43119)]]></title>
-<link>http://columbus.craigslist.org/zip/1324735744.html</link>
-<description><![CDATA[First come first serve! On porch!<br>
-<br>
-305 Iverson way<br>
-Galloway Ohio 43119]]></description>
-<dc:date>2009-08-15T13:04:50-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324735744.html</dc:source>
-<dc:title><![CDATA[1 large bag misc kids toys (43119)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T13:04:50-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324730810.html">
-<title><![CDATA[FREE FIREWOOD...if you cut down the trees (Lewis Center, OH)]]></title>
-<link>http://columbus.craigslist.org/zip/1324730810.html</link>
-<description><![CDATA[I have two trees (60 ft tall?) that I'd like cut down - the firewood is yours to keep if you cut the tree down and haul the wood away yourself. Give me a call if you're interested. Sorry the pictures are sideways!<br>
-<br>
-Adam<br>
-614-623-6035]]></description>
-<dc:date>2009-08-15T13:03:35-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324730810.html</dc:source>
-<dc:title><![CDATA[FREE FIREWOOD...if you cut down the trees (Lewis Center, OH)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T13:03:35-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324733005.html">
-<title><![CDATA[1 pair croc like shoes (43119)]]></title>
-<link>http://columbus.craigslist.org/zip/1324733005.html</link>
-<description><![CDATA[Black, size 10 <br>
-<br>
-First come first serve! On porch<br>
-<br>
-305 Iverson Way<br>
-Galloway Ohio 43119]]></description>
-<dc:date>2009-08-15T13:03:25-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324733005.html</dc:source>
-<dc:title><![CDATA[1 pair croc like shoes (43119)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T13:03:25-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324717563.html">
-<title><![CDATA[free 32in door frame,new (lancaster)]]></title>
-<link>http://columbus.craigslist.org/zip/1324717563.html</link>
-<description><![CDATA[I have a 32in door frame ,it is new I needed the door and now I have a good frame if any one needs it,for the low low price of free.call mark at (740) 654-6167 thanks,I will try to add pic soon if not gone by then.]]></description>
-<dc:date>2009-08-15T12:55:05-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324717563.html</dc:source>
-<dc:title><![CDATA[free 32in door frame,new (lancaster)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T12:55:05-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324708799.html">
-<title><![CDATA[Cleaning Out Garage - Free Stuff in Alley (Victorian Village)]]></title>
-<link>http://columbus.craigslist.org/zip/1324708799.html</link>
-<description><![CDATA[Cleaned out the garage today.  I put a bunch of stuff in the alley behind the garage.  Everything is free, first come (I will not hold anything).  Anything not gone by tomorrow night goes to the dump.<br>
-Cornhole Boards<br>
-Inline Skates<br>
-Paint<br>
-Pipe insulation<br>
-Wood<br>
-Bag of baseballs<br>
-Lamps<br>
-screen<br>
-golf clubs<br>
-more<br>
-<br>
-Location: The alley runs from 2nd to 3rd.  It is just off neil, between Neil and Highland.  So if you are coming north up neil, turn right onto 2nd and then immediate left into the alley.<br>
- ]]></description>
-<dc:date>2009-08-15T12:51:03-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324708799.html</dc:source>
-<dc:title><![CDATA[Cleaning Out Garage - Free Stuff in Alley (Victorian Village)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T12:51:03-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324693019.html">
-<title><![CDATA[LEFT OVER YARD SALE STUFF (JEFFERSON)]]></title>
-<link>http://columbus.craigslist.org/zip/1324693019.html</link>
-<description><![CDATA[Large bags of clothing ...........JR. Teen  Girls......LOTS of T shirts.........Womens Dress clothing....size 5 to size 10<br>
-Boy clothes size 2 t to 4 t<br>
-<br>
-Hand made rocking horse<br>
-Chevy gas tank<br>
-Some car parts<br>
-Full size head board<br>
-Coleman grill<br>
-Mics household<br>
-Twin comforters.........white w/ pink flowers....sponge bob<br>
-PLEASE TAKE as much as you want..............please DO NOT DIG through the bags EVERYTHING IS clean!!!!!<br>
-Do not make a mess of my yard..........Take  but dont leave a mess<br>
-Thanks you<br>
-157 w. Monroe circle<br>
-Jefferson Ohio<br>
-44047<br>
-Jefferson Mobile Estates]]></description>
-<dc:date>2009-08-15T12:43:10-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324693019.html</dc:source>
-<dc:title><![CDATA[LEFT OVER YARD SALE STUFF (JEFFERSON)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T12:43:10-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324567898.html">
-<title><![CDATA[Vinyl Baseboard (Berwick)]]></title>
-<link>http://columbus.craigslist.org/zip/1324567898.html</link>
-<description><![CDATA[Free to whoever can use them: <br>
-Seven pieces of medium blue vinyl baseboard, each piece four feet long and uncut. Should be enough to do a small bathroom.<br>
-Eight pieces of a pleasant butter-yellow vinyl baseboard, each piece four feet long and uncut. Should also be enough to do a small bathroom.]]></description>
-<dc:date>2009-08-15T11:34:40-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324567898.html</dc:source>
-<dc:title><![CDATA[Vinyl Baseboard (Berwick)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T11:34:40-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324544862.html">
-<title><![CDATA[lot's of stuff (griggs ave columbus 43223)]]></title>
-<link>http://columbus.craigslist.org/zip/1324544862.html</link>
-<description><![CDATA[All kind's of stuff in our apartment complex today many yard sales new and used stuff.<br>
-<br>
-812 griggs ave columbus 43223]]></description>
-<dc:date>2009-08-15T11:19:03-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324544862.html</dc:source>
-<dc:title><![CDATA[lot's of stuff (griggs ave columbus 43223)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T11:19:03-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324541228.html">
-<title><![CDATA[Free Straw]]></title>
-<link>http://columbus.craigslist.org/zip/1324541228.html</link>
-<description><![CDATA[We just excavated and seeded our yard and have 8 or more loose bales of straw...free to a good home.<br>
-<br>
-Located in Powell<br>
-<br>
-Call Jay at 614-288-6940]]></description>
-<dc:date>2009-08-15T11:18:06-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324541228.html</dc:source>
-<dc:title><![CDATA[Free Straw]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T11:18:06-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324528146.html">
-<title><![CDATA[Lowrey Coronation with Magic Genie Organ (Marengo)]]></title>
-<link>http://columbus.craigslist.org/zip/1324528146.html</link>
-<description><![CDATA[This is a Lowrey Coronation with Magic Genie Organ. It comes with a piano bench that lifts up for storage. <br>
-<br>
-It could use a little work- apparently the f#'s aren't working- but still has a nice sound! <br>
-<br>
-Please email for questions, additional pictures, or to schedule a time to look at or pick up. **It is very heavy; you'll need help moving it!** <br>
-<br>
-First come, first serve!<br>
-]]></description>
-<dc:date>2009-08-15T11:09:05-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324528146.html</dc:source>
-<dc:title><![CDATA[Lowrey Coronation with Magic Genie Organ (Marengo)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T11:09:05-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324508567.html">
-<title><![CDATA[large tarp (northend)]]></title>
-<link>http://columbus.craigslist.org/zip/1324508567.html</link>
-<description><![CDATA[Hi I have a very large tarp not sure how large . I think it would take two people to lift it. It was used as a drop cloth in a very large house.  free e-mail and I will send address. ]]></description>
-<dc:date></dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324508567.html</dc:source>
-<dc:title><![CDATA[large tarp (northend)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued></dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324494648.html">
-<title><![CDATA[Candle warmer (Clintonville)]]></title>
-<link>http://columbus.craigslist.org/zip/1324494648.html</link>
-<description><![CDATA[I bought it for the dorm when I couldn’t have open flames. Now I burn candles. Just take it.]]></description>
-<dc:date>2009-08-15T10:48:26-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324494648.html</dc:source>
-<dc:title><![CDATA[Candle warmer (Clintonville)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T10:48:26-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324491342.html">
-<title><![CDATA[Electric starter motor (Clintonville)]]></title>
-<link>http://columbus.craigslist.org/zip/1324491342.html</link>
-<description><![CDATA[I have no idea if this works or not. I think it’s from an Evinrude outboard motor. I didn’t care when I bought it because I bought it for a project I was going to do, but was put on hold indefinitely. I paid 20 bucks for it. My loss is your gain.]]></description>
-<dc:date>2009-08-15T10:46:18-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324491342.html</dc:source>
-<dc:title><![CDATA[Electric starter motor (Clintonville)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T10:46:18-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324485202.html">
-<title><![CDATA[Stainless steel Double wall stove top (upper arlington)]]></title>
-<link>http://columbus.craigslist.org/zip/1324485202.html</link>
-<description><![CDATA[Hi, yesterday I gave away a free stainless steel double stove top to a couple and accidentally placed the two metal frames for the dishwasher.  I accidentally placed on there and I erased your number already so please call me at 614-582-3969 if you still have it.  Thank you.]]></description>
-<dc:date>2009-08-15T10:43:11-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324485202.html</dc:source>
-<dc:title><![CDATA[Stainless steel Double wall stove top (upper arlington)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T10:43:11-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324483144.html">
-<title><![CDATA[dishes, silverware, misc (Grandview)]]></title>
-<link>http://columbus.craigslist.org/zip/1324483144.html</link>
-<description><![CDATA[in boxes, back alley, behind 1370 Morning Ave. 43212<br>
-<br>
-Box with ceramic dishes beige with blue edging, bowls, mugs and set of silverware with green handles<br>
-<br>
-another box with some misc. items toaster, electric hair curlers, cleaning supplies, printer, keyboard]]></description>
-<dc:date>2009-08-15T10:41:02-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324483144.html</dc:source>
-<dc:title><![CDATA[dishes, silverware, misc (Grandview)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T10:41:02-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324477282.html">
-<title><![CDATA[Free Ironing Board (Clintonville)]]></title>
-<link>http://columbus.craigslist.org/zip/1324477282.html</link>
-<description><![CDATA[Free Ironing board. Great for a small apartment or dorm.]]></description>
-<dc:date>2009-08-15T10:37:15-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324477282.html</dc:source>
-<dc:title><![CDATA[Free Ironing Board (Clintonville)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T10:37:15-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324426510.html">
-<title><![CDATA[FREE SCHOOL SUPPLIES WHILE THEY LAST (COLUMBUS 43214)]]></title>
-<link>http://columbus.craigslist.org/zip/1324426510.html</link>
-<description><![CDATA[FREE SCHOOL SUPPLIES<br>
-<br>
-(((((((child safety program today to help out the children going back to school)))))<br>
-<br>
-!!!!!!!!!!!!FREE SCHOOL SUPPLIES FOR KIDS!!!!!!!!!!!!!!!<br>
-<br>
-<br>
-ALL THRIFT STORES HAVE WAYS OF GETTING RID OF THEIR EXTRA ITMES WE PREFER TO HELP OTHERS IN NEEDS!!!!!!!<br>
-<br>
-FFFFFree stuff all day long<br>
-Clothing, vases, shoes, dishes, baskets, and more<br>
-<br>
-<br>
-4392 Indianola Avenue<br>
-Columbus, Ohio 43214<br>
-<br>
-<br>
-free clothing EVERYDAY NEW STUFF SHOWING UP - COMMUNITY RESOURCE CENTER!!!<br>
-<br>
-<br>
-<br>
-Come and get some TODAY<br>
-<br>
-We support those with MR/DD and other disabilities AND YOU CAN TOO!!! Just stop buy and ask. Employment alternatives for those suffering with MR/DD<br>
-<br>
-614-778-3295 ]]></description>
-<dc:date>2009-08-15T10:01:21-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324426510.html</dc:source>
-<dc:title><![CDATA[FREE SCHOOL SUPPLIES WHILE THEY LAST (COLUMBUS 43214)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T10:01:21-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324415630.html">
-<title><![CDATA[17 inch crt monitor (43119)]]></title>
-<link>http://columbus.craigslist.org/zip/1324415630.html</link>
-<description><![CDATA[Older 17 inch crt monitor, this is not a flatscreen lcd panel.  Still works great.  First come first serve<br>
-<br>
-305 Iverson Way<br>
-Galloway Ohio 43119]]></description>
-<dc:date>2009-08-15T09:52:58-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324415630.html</dc:source>
-<dc:title><![CDATA[17 inch crt monitor (43119)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T09:52:58-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324360975.html">
-<title><![CDATA[free stuff at Lend-A-Hand (columbus ohio)]]></title>
-<link>http://columbus.craigslist.org/zip/1324360975.html</link>
-<description><![CDATA[LEND-A-HAND CHEAP THRIFT STORE<br>
-4392 Indianola Avenue<br>
-Columbus, Ohio 43214<br>
-<br>
-<br>
-(((((((child safety program today to help out the children going back to school)))))<br>
-<br>
-ALL THRIFT STORES HAVE WAYS OF GETTING RID OF THEIR EXTRA ITMES WE PREFER TO HELP OTHERS IN NEEDS!!!!!!!<br>
-<br>
-FFFFFree stuff all day long<br>
-Clothing, vases, shoes, dishes, baskets, and more<br>
-<br>
-<br>
-4392 Indianola Avenue<br>
-Columbus, Ohio 43214<br>
-<br>
-<br>
-free clothing EVERYDAY NEW STUFF SHOWING UP - COMMUNITY RESOURCE CENTER!!!<br>
-<br>
-<br>
-<br>
-Come and get some TODAY<br>
-<br>
-We support those with MR/DD and other disabilities AND YOU CAN TOO!!! Just stop buy and ask. Employment alternatives for those suffering with MR/DD<br>
-<br>
-614-778-3295<br>
-<br>
-4292 Indianola Avenue Columbus, Ohio 43214<br>
-<br>
-TUES, WED, THURS, FRI 11-5<br>
-SAT 10-4 ]]></description>
-<dc:date>2009-08-15T09:04:41-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324360975.html</dc:source>
-<dc:title><![CDATA[free stuff at Lend-A-Hand (columbus ohio)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T09:04:41-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324336007.html">
-<title><![CDATA[FREE leftover 2009 Entertainment book coupons (sw)]]></title>
-<link>http://columbus.craigslist.org/zip/1324336007.html</link>
-<description><![CDATA[I still have many Retail, Food coupons left, let me know what you want. <br>
-plenty of mexican , pizza coupons, others, Groveport rec. center coupons<br>
-lots of retail, from clothes, shoes,office depot, sharper image,video stores, New York and Co., Liz C. <br>
-Catherines, many coupons for the Lancaster , Reynoldsburg, Whitehall, Gahanna, Hilliard areas<br>
-let me know by name or page number please and then <br>
-email me your NAME and ADDRESS what you want, if I still have them  I will mail them to you. <br>
-<br>
-]]></description>
-<dc:date>2009-08-15T08:36:28-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324336007.html</dc:source>
-<dc:title><![CDATA[FREE leftover 2009 Entertainment book coupons (sw)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T08:36:28-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324325498.html">
-<title><![CDATA[End of Rummage sale everything is free! (Harrison West/ Victorian Village)]]></title>
-<link>http://columbus.craigslist.org/zip/1324325498.html</link>
-<description><![CDATA[at 448 W. Third Ave Col. OH 43201<br>
-From 2-3pm everything is Free!<br>
-please help us get rid of our leftover stuff!]]></description>
-<dc:date>2009-08-15T08:22:51-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324325498.html</dc:source>
-<dc:title><![CDATA[End of Rummage sale everything is free! (Harrison West/ Victorian Village)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T08:22:51-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324293943.html">
-<title><![CDATA[Misc Free Stuff  3:00 pm Saturday (Lancaster off 158)]]></title>
-<link>http://columbus.craigslist.org/zip/1324293943.html</link>
-<description><![CDATA[At 3:00 on Saturday I will put misc items at the curb that are left after a large garage sale.  They are free for the taking.<br>
-<br>
-Location is 1218 Hickory Ridge Dr. NW  Lancaster 43130.  It is located off of Ginder Rd between 158 and Election House Rd.]]></description>
-<dc:date>2009-08-15T07:38:52-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324293943.html</dc:source>
-<dc:title><![CDATA[Misc Free Stuff  3:00 pm Saturday (Lancaster off 158)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T07:38:52-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324279204.html">
-<title><![CDATA[Some free items (Sawmill/Bethel Rd.)]]></title>
-<link>http://columbus.craigslist.org/zip/1324279204.html</link>
-<description><![CDATA[I LIVE ON SAWMILL RD. NEAR BETHEL RD.<br>
-<br>
-LOOK AT THIS -----------<a href="http://columbus.craigslist.org/search/sss?query=HILARIE&catAbbreviation=zip&minAsk=min&maxAsk=max"  rel="nofollow">http://columbus.craigslist.org/search/sss?query=HILARIE&catAbbreviation=zip&minAsk=min&maxAsk=max</a><br>
-THERE ARE MANY FREE ITEMS<br>
-LET ME KNOW WHAT YOU WOULD LIKE<br>
-I AM NOT SELLING ANYTHING, THIS LINK IS FOR FREE ITEMS ONLY!!!  <br>
-I AM GIVING ITEMS AWAY - NO REASON TO FLAG.]]></description>
-<dc:date>2009-08-15T06:52:26-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324279204.html</dc:source>
-<dc:title><![CDATA[Some free items (Sawmill/Bethel Rd.)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T06:52:26-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324226102.html">
-<title><![CDATA[baby monitor, puzzle and christmas ornaments (short north)]]></title>
-<link>http://columbus.craigslist.org/zip/1324226102.html</link>
-<description><![CDATA[all working<br>
-must pick up all on sunday.<br>
-<br>
-]]></description>
-<dc:date>2009-08-15T03:46:53-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324226102.html</dc:source>
-<dc:title><![CDATA[baby monitor, puzzle and christmas ornaments (short north)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T03:46:53-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324105463.html">
-<title><![CDATA[Free Wood Cabinets (OSU)]]></title>
-<link>http://columbus.craigslist.org/zip/1324105463.html</link>
-<description><![CDATA[Free kitchen cabinets<br>
-in alley between Dayton Ave and Deming Aves]]></description>
-<dc:date>2009-08-15T00:20:17-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324105463.html</dc:source>
-<dc:title><![CDATA[Free Wood Cabinets (OSU)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-15T00:20:17-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1324034158.html">
-<title><![CDATA[FREE BED LINERS (LITHOPOLIS)]]></title>
-<link>http://columbus.craigslist.org/zip/1324034158.html</link>
-<description><![CDATA[I HAVE THERE BED LINERS OUT BAACK OF MY HOUSE THAT ARE FREE FOR THR TAKING, THEY GO TO THE FOLLOWING TRUCKS BUT IF YOU TAKE ONE YOU TAKE THEM ALL.<br>
-03 FORD F150 LONG BED<br>
-96 CXHEVY 1500 SERIES LONG BED<br>
-98 DODGE RAM LONG BED<br>
-LIKE I SAID YOU TAKE THEM ALL OR DONT CALL! 614-302-6605 THANKS MARK]]></description>
-<dc:date>2009-08-14T23:11:43-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1324034158.html</dc:source>
-<dc:title><![CDATA[FREE BED LINERS (LITHOPOLIS)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-14T23:11:43-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1323915485.html">
-<title><![CDATA[Attention scrappers and garage owners (43228)]]></title>
-<link>http://columbus.craigslist.org/zip/1323915485.html</link>
-<description><![CDATA[I have for free a complete new rail system for a 16x7 garage door.  Also I have misc. brackets and hardware. I just purchased the lot from a gentle man and used what I could do put a functional door on my paint booth.  there are also new and used springs and polls. <br>
-<br>
-Also for scrap or wood burning is my old shed that was build in the late 50's so the wood is pretty dry. But I actually used one wall to build my custom garage door so it may be useable.  ]]></description>
-<dc:date>2009-08-14T21:20:42-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1323915485.html</dc:source>
-<dc:title><![CDATA[Attention scrappers and garage owners (43228)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-14T21:20:42-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1323823530.html">
-<title><![CDATA[wood siding off a 8 x 8 shed, 1 year old (pickerington)]]></title>
-<link>http://columbus.craigslist.org/zip/1323823530.html</link>
-<description><![CDATA[i bought an 8 x 8 shed a month ago, and decided to make it bigger. the old sides i couldn't re-use.  they are $22 a piece in the home depot. if you can use them... come get 'em. ]]></description>
-<dc:date>2009-08-14T20:08:00-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1323823530.html</dc:source>
-<dc:title><![CDATA[wood siding off a 8 x 8 shed, 1 year old (pickerington)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-14T20:08:00-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1323819687.html">
-<title><![CDATA[30 year roof shingles, used 1 year (pickerington)]]></title>
-<link>http://columbus.craigslist.org/zip/1323819687.html</link>
-<description><![CDATA[30 year roof shingles, used 1 year, appx 3 bundles. came off a 8 x 8 shed. i don't know if they are reusable, but if they are... come get them please. ]]></description>
-<dc:date>2009-08-14T20:05:08-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1323819687.html</dc:source>
-<dc:title><![CDATA[30 year roof shingles, used 1 year (pickerington)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-14T20:05:08-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1323794118.html">
-<title><![CDATA[Full Size Mattress (Olde Town East)]]></title>
-<link>http://columbus.craigslist.org/zip/1323794118.html</link>
-<description><![CDATA[I need this gone ASAP.  It is old, so it is yellowing but it has a fabric cover to hide the mattress.  I am getting ready to move and need it to be gone by the end of the week.  Thanks.  ]]></description>
-<dc:date>2009-08-14T19:56:12-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1323794118.html</dc:source>
-<dc:title><![CDATA[Full Size Mattress (Olde Town East)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-14T19:56:12-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1323764179.html">
-<title><![CDATA[Free Waste Oil (97 N Princeton Ave,Columbus Ohio 43222)]]></title>
-<link>http://columbus.craigslist.org/zip/1323764179.html</link>
-<description><![CDATA[Free 55 Gal drum of automotive waste oil at rear of property by garage.Very heavy.near intersection of Cable and Princeton in Franklinton[614]284-1931]]></description>
-<dc:date>2009-08-14T19:26:26-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1323764179.html</dc:source>
-<dc:title><![CDATA[Free Waste Oil (97 N Princeton Ave,Columbus Ohio 43222)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-14T19:26:26-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1323711837.html">
-<title><![CDATA[FREE couch with pull-out bed ]]></title>
-<link>http://columbus.craigslist.org/zip/1323711837.html</link>
-<description><![CDATA[FREE love seat with pull out bed on curb - just put out today.  <br>
-<br>
-6951 Carrousel Dr. S., Reynoldsburg OHIO<br>
-<br>
-Nothing wrong with it, just sick of it and don't have room for it.]]></description>
-<dc:date>2009-08-14T18:53:20-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1323711837.html</dc:source>
-<dc:title><![CDATA[FREE couch with pull-out bed ]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-14T18:53:20-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1323619874.html">
-<title><![CDATA[Insulation board (Westerville, 43082)]]></title>
-<link>http://columbus.craigslist.org/zip/1323619874.html</link>
-<description><![CDATA[Small amout of insulation board that goes under siding.  Was removed from structure - has nail holes.  At the street for pickup.  Will remove add when gone.  6881 Tussic Rd, Westerville, 43082]]></description>
-<dc:date>2009-08-14T17:53:58-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1323619874.html</dc:source>
-<dc:title><![CDATA[Insulation board (Westerville, 43082)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-14T17:53:58-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1323609006.html">
-<title><![CDATA[Waterline (Westerville, 43082)]]></title>
-<link>http://columbus.craigslist.org/zip/1323609006.html</link>
-<description><![CDATA[Assorted lengths and sizes of plastic water line.  Some will/will not hold water.  At the street - will remove add when gone.  6881 Tussic Rd, Westerville, 43082]]></description>
-<dc:date>2009-08-14T17:47:47-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1323609006.html</dc:source>
-<dc:title><![CDATA[Waterline (Westerville, 43082)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-14T17:47:47-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1323456193.html">
-<title><![CDATA[HP Printer &amp; Xerox Copier (S Court St Circleville)]]></title>
-<link>http://columbus.craigslist.org/zip/1323456193.html</link>
-<description><![CDATA[HP Lazer printer & Xerox 5034 yours for pickup  Call 740474-2780]]></description>
-<dc:date>2009-08-14T16:26:18-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1323456193.html</dc:source>
-<dc:title><![CDATA[HP Printer &amp; Xerox Copier (S Court St Circleville)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-14T16:26:18-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1323402184.html">
-<title><![CDATA[Couch PPU (OSU )]]></title>
-<link>http://columbus.craigslist.org/zip/1323402184.html</link>
-<description><![CDATA[Nice couch, it is older but has no stains or tears.  Has a recliner on both ends.  Older couch but still has life in it.  I do have a cat so beware if you are allergic.  Pick up only. The couch is available  Sat 8/15 from 5-6pm or Sun between 10am- 4pm.  Send me an email, will be available in the week but I don't have my work schedule yet.]]></description>
-<dc:date>2009-08-14T15:58:08-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1323402184.html</dc:source>
-<dc:title><![CDATA[Couch PPU (OSU )]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-14T15:58:08-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1323390199.html">
-<title><![CDATA[Black leather golf bag (Blacklick)]]></title>
-<link>http://columbus.craigslist.org/zip/1323390199.html</link>
-<description><![CDATA[It's at the end of our driveway waiting for a new home.  It is a bit used but well made.  2227 Reynoldsburg-New Albany Rd.  Will remove this when it is gone.]]></description>
-<dc:date>2009-08-14T15:52:15-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1323390199.html</dc:source>
-<dc:title><![CDATA[Black leather golf bag (Blacklick)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-14T15:52:15-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1323368618.html">
-<title><![CDATA[Cardboard boxes for moving (Blacklick)]]></title>
-<link>http://columbus.craigslist.org/zip/1323368618.html</link>
-<description><![CDATA[I just got done moving and I have a ton of cardboard boxes for anyone who might need them.  I have 20-30 boxes.  I had a hard time getting my hands on boxes, so I'm sure they will come in handy, and I don't want to just throw them away.  If you are interested, please email me and I will set them out and give my address.  I don't want them to get wet/blow away, etc.  Serious inquiries only.  I would like them gone tonight/tomorrow.]]></description>
-<dc:date>2009-08-14T15:40:33-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1323368618.html</dc:source>
-<dc:title><![CDATA[Cardboard boxes for moving (Blacklick)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-14T15:40:33-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1323315963.html">
-<title><![CDATA[4 old Pontiac Grand Am tires (Dublin/Plain City)]]></title>
-<link>http://columbus.craigslist.org/zip/1323315963.html</link>
-<description><![CDATA[We have 4 old tires in our garage need to get rid of.  2 of them are bald, others are fine as far as I know.  No rims just the tires.  Thanks.]]></description>
-<dc:date>2009-08-14T15:15:26-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1323315963.html</dc:source>
-<dc:title><![CDATA[4 old Pontiac Grand Am tires (Dublin/Plain City)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-14T15:15:26-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1323282299.html">
-<title><![CDATA[free (upper arlington)]]></title>
-<link>http://columbus.craigslist.org/zip/1323282299.html</link>
-<description><![CDATA[i have a white microwave that doesnt work you can have it for parts....must come pick up =]]></description>
-<dc:date>2009-08-14T14:57:17-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1323282299.html</dc:source>
-<dc:title><![CDATA[free (upper arlington)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-14T14:57:17-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1323168707.html">
-<title><![CDATA[curb alert- box of free stuff (norwich ohio)]]></title>
-<link>http://columbus.craigslist.org/zip/1323168707.html</link>
-<description><![CDATA[there is a yard sale on brick road in norwich with a big box of free stuff sitting by the curb!]]></description>
-<dc:date>2009-08-14T14:13:21-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1323168707.html</dc:source>
-<dc:title><![CDATA[curb alert- box of free stuff (norwich ohio)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-14T14:13:21-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1323100714.html">
-<title><![CDATA[design it your self selving supplies  (Columbus)]]></title>
-<link>http://columbus.craigslist.org/zip/1323100714.html</link>
-<description><![CDATA[they are back in stock as of Monday  the 17 of August we will have more of the units i am sorry for the delay but hey everyone needs a vacation but we are back in business and will be getting more units all week. <br>
-<br>
-As i have posted these units are store displays that have been retired from service made out of  MDF  with a laminate on both sides.  the finish of the laminate is light oak  see photos below <br>
-Oh and new rule if you are taking a unite you must take all of it packaging and all ]]></description>
-<dc:date>2009-08-14T13:51:52-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1323100714.html</dc:source>
-<dc:title><![CDATA[design it your self selving supplies  (Columbus)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-14T13:51:52-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1322930390.html">
-<title><![CDATA[Antique Chair (Berwick)]]></title>
-<link>http://columbus.craigslist.org/zip/1322930390.html</link>
-<description><![CDATA[I have an antique bentwood chair that I'd like to give away to someone who will clamp and glue the legs/rungs properly. It is already refinished. I think it is an old kitchen chair. <br>
-<br>
-]]></description>
-<dc:date>2009-08-14T12:12:10-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1322930390.html</dc:source>
-<dc:title><![CDATA[Antique Chair (Berwick)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-14T12:12:10-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1322911426.html">
-<title><![CDATA[CURB ALERT (Powell, Ohio)]]></title>
-<link>http://columbus.craigslist.org/zip/1322911426.html</link>
-<description><![CDATA[We are moving and cleaning out the house. Miscellaneous home goods including tables, chairs, stuffed animals, misc. kids toys and more..<br>
-<br>
-We also have a garage full of household items for sale including a nordic track, storage cabinets, dresser, desk, snowblower, radial arm saw, and more... <br>
-<br>
-2620 Clubhouse Circle, Powell, Ohio 43065]]></description>
-<dc:date>2009-08-14T12:02:23-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1322911426.html</dc:source>
-<dc:title><![CDATA[CURB ALERT (Powell, Ohio)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-14T12:02:23-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1322836235.html">
-<title><![CDATA[4261 rockledge (grove city)]]></title>
-<link>http://columbus.craigslist.org/zip/1322836235.html</link>
-<description><![CDATA[ 4261 rockledge 43123 <br>
-Exercise equipment  <br>
-Free Love seat needs Cleaning  <br>
-home decorations<br>
-office chair<br>
-GOLF CLUBS<br>
-MISC<br>
-<br>
-EVERYTHING IN DRIVEWAY FREE KNOK ON DOOR FOR LOVESEAT<br>
-DO NOT EMAIL WILL NOT RESPOND]]></description>
-<dc:date>2009-08-14T11:29:24-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1322836235.html</dc:source>
-<dc:title><![CDATA[4261 rockledge (grove city)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-14T11:29:24-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1322703598.html">
-<title><![CDATA[Piano **Curb Alert**  PENDING PICKUP (Pickerington)]]></title>
-<link>http://columbus.craigslist.org/zip/1322703598.html</link>
-<description><![CDATA[  Pending pick up-Piano for Free!!!<br>
-<br>
-We are getting rid of an old Monarch Player Piano.  We have only had it for a few months, but we are trying to sell our house and need to free up some space.  <br>
-<br>
-We got it from another couple that didn't want it anymore.  It hasn't been tuned since we brought it home, so it will probably need it.<br>
-<br>
-The mechanics for the player portion were removed prior to us getting it.<br>
-<br>
-If you have any questions or would like to come see it, please email me at aaronp0654@yahoo.com.<br>
-<br>
-Thanks!!!]]></description>
-<dc:date>2009-08-14T10:13:24-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1322703598.html</dc:source>
-<dc:title><![CDATA[Piano **Curb Alert**  PENDING PICKUP (Pickerington)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-14T10:13:24-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1322657954.html">
-<title><![CDATA[Air deflector for vents (Somerset, Ohio)]]></title>
-<link>http://columbus.craigslist.org/zip/1322657954.html</link>
-<description><![CDATA[I have one air deflector for a vent, it puts the air out into the room instead of straight in the air.....plastic, clear.]]></description>
-<dc:date>2009-08-14T09:43:36-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1322657954.html</dc:source>
-<dc:title><![CDATA[Air deflector for vents (Somerset, Ohio)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-14T09:43:36-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1322655283.html">
-<title><![CDATA[2 Water filters (Somerset, Ohio)]]></title>
-<link>http://columbus.craigslist.org/zip/1322655283.html</link>
-<description><![CDATA[Two culligan water filters for a faucet. - These are refills. Thanks]]></description>
-<dc:date>2009-08-14T09:41:44-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1322655283.html</dc:source>
-<dc:title><![CDATA[2 Water filters (Somerset, Ohio)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-14T09:41:44-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1322562368.html">
-<title><![CDATA[FREE  4261 ROCKLEDGE (GROVE CITY)]]></title>
-<link>http://columbus.craigslist.org/zip/1322562368.html</link>
-<description><![CDATA[OFFICE CHAIR <br>
-LOVE SEAT <br>
-METAL FUTON FRAME GREAT SHAPE <br>
-<br>
-MORE TO COME ALL DAY!!!!! <br>
-]]></description>
-<dc:date>2009-08-14T08:14:56-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1322562368.html</dc:source>
-<dc:title><![CDATA[FREE  4261 ROCKLEDGE (GROVE CITY)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-14T08:14:56-04:00</dcterms:issued>
-</item>
-<item rdf:about="http://columbus.craigslist.org/zip/1322529760.html">
-<title><![CDATA[free washer (Frankfort,ohio)]]></title>
-<link>http://columbus.craigslist.org/zip/1322529760.html</link>
-<description><![CDATA[5 yrs old works but doesnot spin out starts to smoke Don't know if it can be fixed  or care just want it gone. FREE     jennamalone43@yahoo.com]]></description>
-<dc:date>2009-08-14T07:23:18-04:00</dc:date>
-<dc:language>en-us</dc:language>
-<dc:rights>Copyright &#x26;copy; 2009 craigslist, inc.</dc:rights>
-<dc:source>http://columbus.craigslist.org/zip/1322529760.html</dc:source>
-<dc:title><![CDATA[free washer (Frankfort,ohio)]]></dc:title>
-<dc:type>text</dc:type>
-<dcterms:issued>2009-08-14T07:23:18-04:00</dcterms:issued>
-</item>
-</rdf:RDF>
