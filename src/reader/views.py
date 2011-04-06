@@ -6,7 +6,7 @@ from django.http import HttpResponseRedirect, Http404, HttpResponse
 from django.shortcuts import get_object_or_404, render_to_response
 
 
-def markRead(request, pk):
+def mark_read(request, pk):
     state = ''
     try:
         markEntry = FeedEntry.objects.get(pk=pk)
@@ -17,7 +17,7 @@ def markRead(request, pk):
     if request.is_ajax():
         return ajax_response(state)
     
-def updateFeed(request, pk,
+def update_feed(request, pk,
                template_name='feedlist.html'):
     try:
         rssFeed = Feed.objects.get(pk=pk)
@@ -29,7 +29,7 @@ def updateFeed(request, pk,
     if request.is_ajax():
         return ajax_response(state, context, template_name) 
 
-def getFeed(request, pk,
+def get_feed(request, pk,
             template_name='feedlist.html'):
     try:
         feedObj = Feed.objects.get(pk=pk)
