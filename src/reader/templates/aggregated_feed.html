@@ -1,3 +1,6 @@
+<form name="add_feed_form" action="{% url feeds %}" method="post">
+<input type="text" name="url" value="http://" /> <input type="submit" value="Add Feed" />
+</form>
 {% for entry in entries %}
 <p>
 <h2><a href="{{ entry.entry.link }}">{{ entry.entry.title }}</a></h2>

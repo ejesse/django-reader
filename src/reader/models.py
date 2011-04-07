@@ -14,13 +14,13 @@ DEFAULT_CATEGORY = 'Uncategorized'
 DEFAULT_CATEGORY_SLUG = 'uncategorized'
 
 class Feed(models.Model):
-    title = models.CharField(max_length=100)
+    title = models.CharField(max_length=100,blank=True,null=True)
     url = models.URLField(unique=True)
-    link = models.URLField()
+    link = models.URLField(blank=True,null=True)
     description = models.TextField(blank=True,null=True)
     version = models.TextField(max_length=200,blank=True,null=True)
     encoding = models.TextField(max_length=200,blank=True,null=True)
-    last_checked = models.DateTimeField()
+    last_checked = models.DateTimeField(blank=True,null=True)
     
     def fetch(self):
         parsed_feed = feedparser.parse(self.url)
@@ -33,7 +33,6 @@ class Feed(models.Model):
             self.last_checked = datetime.datetime(1980,1,1)
         self.save()
         for entry in parsed_feed.entries:
-            print entry.title
             entry_date = datetime.datetime.fromtimestamp(mktime(entry.date_parsed))
             entry_updated = datetime.datetime.fromtimestamp(mktime(entry.updated_parsed))
             if entry_updated > self.last_checked:
