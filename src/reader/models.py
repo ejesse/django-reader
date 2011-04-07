@@ -1,11 +1,14 @@
 from django.db import models
 from django.contrib.auth.models import User
 from django_extensions.db.fields import AutoSlugField
+from django.db.models.signals import post_save
+from django.db.models.signals import post_syncdb
+from django.db.models.signals import m2m_changed
+from django.dispatch import receiver
 
 import datetime
 from time import mktime
 import feedparser
-import md5
 
 DEFAULT_CATEGORY = 'Uncategorized'
 DEFAULT_CATEGORY_SLUG = 'uncategorized'
@@ -125,15 +128,20 @@ class UserEntry(models.Model):
 
     class Meta:
         verbose_name_plural = "User Entries"
+        ordering = ['entry']
 
 class UserCategory(models.Model):
     user = models.ForeignKey(User)
     category = models.ForeignKey(Category)
-    feeds = models.ManyToManyField(Feed)
+    feeds = models.ManyToManyField(Feed,null=True,blank=True)
+    
+    def get_count_unread_entries(self):
+        entries_for_category = FeedEntry.objects.filter(feed__in=self.feeds.all())
+        return UserEntry.objects.filter(user=self.user,read=False,entry__in=entries_for_category).count()
     
     def get_unread_entries(self):
         ## this cant be the best way to do this...
-        entries_for_category = FeedEntry.filter(feed__in=self.feeds)
+        entries_for_category = FeedEntry.objects.filter(feed__in=self.feeds.all())
         return UserEntry.objects.filter(user=self.user,read=False,entry__in=entries_for_category)
 
     def __unicode__(self):
@@ -142,60 +150,39 @@ class UserCategory(models.Model):
     class Meta:
         verbose_name_plural = "User Categories"
         
-    def save(self, *args, **kwargs):
-        ## we want to make sure we create
-        ## user entries for any feeds added
-        update_feeds = []
-        if self.id:
-            comparer = UserCategory.objects.get(id=self.id)
-            comparer_feeds = comparer.feeds.all()
-            for c in comparer_feeds:
-                print c
-            for feed in self.feeds.all():
-                print feed
-                if feed not in comparer_feeds:
-                    print 'wtf'
-                    update_feeds.append(feed)
-        else:
-            update_feeds = self.feeds
-        for feed in update_feeds:
-            ## only grab most recent 20 per feed
-            feed_entries = FeedEntry.objects.filter(feed=feed)[:20]
-            for entry in feed_entries:
-                user_entry = UserEntry()
-                user_entry.user = self.user
-                user_entry.entry = entry
-
-        super(UserCategory, self).save(*args, **kwargs)
-
 class UserFeed(models.Model):
     user = models.ForeignKey(User)
     is_public=models.BooleanField(default=False)
-    categories = models.ManyToManyField(UserCategory)
+    categories = models.ManyToManyField(UserCategory,null=True,blank=True)
     
     def get_unread_entries(self):
         return UserEntry.objects.filter(user=self.user,read=False)
     
-    def save(self, *args, **kwargs):
-        if not self.id:
-            ## make sure there's a category to add feeds to
-            default_category = Category.objects.get(category_slug=DEFAULT_CATEGORY_SLUG)
-            user_default_category = UserCategory()
-            user_default_category.user = self.user
-            user_default_category.category = default_category
-            user_default_category.save()
-            self.categories.append(user_default_category)
-        super(UserFeed, self).save(*args, **kwargs)
-    
     def __unicode__(self):
         return self.user.__unicode__()
-    
 
+@receiver(post_save, sender=UserFeed)
+def give_feed_default_category(sender, instance, signal, *args, **kwargs):
+    if len(instance.categories.all()) < 1:
+        default_category = Category.objects.get(category_slug=DEFAULT_CATEGORY_SLUG)
+        try:
+            user_default_category = UserCategory.objects.get(user=instance.user,category=default_category)
+        except UserCategory.DoesNotExist:
+            user_default_category = UserCategory()
+            user_default_category.user = instance.user
+            user_default_category.category = default_category
+            user_default_category.save()
+        categories = [user_default_category]
+        instance.categories = categories
+        instance.save()
+    
+@receiver(m2m_changed, sender=UserCategory.feeds.through)
 def update_user_entries(sender, instance, signal, *args, **kwargs):
     user = instance.user
     feeds = instance.feeds.all()
     for feed in feeds:
-        for entry in feed.entries.all():
+        feed_entries = FeedEntry.objects.filter(feed=feed)[:20]
+        for entry in feed_entries:
             try:
                 user_entry = UserEntry.objects.get(entry=entry,user=user)
             except UserEntry.DoesNotExist:
@@ -203,4 +190,15 @@ def update_user_entries(sender, instance, signal, *args, **kwargs):
                 user_entry.user = user
                 user_entry.entry = entry
                 user_entry.save()
-            user_entry.
+
+@receiver(post_syncdb)
+def bootstrap_data(sender, *args, **kwargs):
+    print 'checking reader app bootstrap data'
+    try:
+        category = Category.objects.get(category_slug = DEFAULT_CATEGORY_SLUG)
+    except Category.DoesNotExist:
+        print 'populating default category'
+        category = Category()
+        category.category_name = DEFAULT_CATEGORY
+        category.save()
+    print 'done!'
