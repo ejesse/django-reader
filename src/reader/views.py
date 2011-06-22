@@ -1,13 +1,23 @@
 from django import views
-from reader.forms import FeedForm
-from reader.models import Feed, FeedEntry, Category, UserCategory, UserEntry, UserFeed, DEFAULT_CATEGORY_SLUG
-from django.contrib.auth.models import User
-from django.http import HttpResponseRedirect, Http404, HttpResponse
-from django.shortcuts import get_object_or_404, render_to_response
-from django.shortcuts import render_to_response
-from django.template.context import RequestContext
 from django.contrib.auth.decorators import login_required
+from django.contrib.auth.models import User
 from django.core.urlresolvers import reverse
+from django.http import HttpResponseRedirect, Http404, HttpResponse
+from django.shortcuts import get_object_or_404, render_to_response, \
+    render_to_response
+from django.template.context import RequestContext
+from reader.forms import FeedForm
+from reader.models import Feed, FeedEntry, Category, UserCategory, UserEntry, \
+    UserFeed, DEFAULT_CATEGORY_SLUG
+
+@login_required
+def get_started(request):
+    new_user_feed = UserFeed()
+    new_user_feed.user = request.user
+    new_user_feed.save()
+    template = 'get_started.html'
+    context = RequestContext(request)
+    return render_to_response(template,context)
 
 @login_required
 def my_entries(request):
@@ -15,9 +25,7 @@ def my_entries(request):
     try:
         user_feed = UserFeed.objects.get(user=request.user)
     except UserFeed.DoesNotExist:
-        ##todo fixme we should auto create a feed
-        ## and send the user to some sort of get started thing
-        pass
+        return get_started(request)
     
     template = 'aggregated_feed.html'
     context = RequestContext(request)

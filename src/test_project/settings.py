@@ -52,9 +52,8 @@ SECRET_KEY = '*4womv3fzw&##ea0&^7$a^(b%03*k0*c#2-^9_5whdj_ly9d46'
 
 # List of callables that know how to import templates from various sources.
 TEMPLATE_LOADERS = (
-    'django.template.loaders.filesystem.load_template_source',
-    'django.template.loaders.app_directories.load_template_source',
-#     'django.template.loaders.eggs.load_template_source',
+    'django.template.loaders.filesystem.Loader',
+    'django.template.loaders.app_directories.Loader',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -70,6 +69,20 @@ TEMPLATE_DIRS = (
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
 )
+from datetime import timedelta
+CELERYBEAT_SCHEDULE = {
+    "runs-every-300-seconds": {
+        "task": "reader.tasks.fetch_feeds",
+        "schedule": timedelta(seconds=300)
+    },
+}
+
+CELERY_RESULT_BACKEND = "amqp"
+BROKER_HOST = "whitestar"
+BROKER_PORT = 5672
+BROKER_USER = "reader_user"
+BROKER_PASSWORD = "reader_pass"
+BROKER_VHOST = "reader_host"
 
 INSTALLED_APPS = (
     'django.contrib.auth',

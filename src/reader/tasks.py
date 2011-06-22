@@ -11,6 +11,7 @@ def fetch_feed(feed_id,callback=None):
 
 @task
 def fetch_feeds(callback=None):
+    print 'i am here'
     feeds = Feed.objects.all()
     task_list = []
     for feed in feeds:
