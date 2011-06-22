@@ -9,3 +9,6 @@ t-ls-files --others --exclude-from=.git/info/exclude
 *.class
 local_settings.py
 pip-log.txt
+.pydevproject
+.project
+celerybeat-schedule.db
