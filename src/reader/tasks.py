@@ -17,7 +17,6 @@ def fetch_feeds(callback=None):
     for feed in feeds:
         s = fetch_feed.subtask([feed.id])
         task_list.append(s)
-    print 'fetching all %s feeds' % (len(task_list))
     fetch_all_tasks = TaskSet(tasks=task_list)
     fetch_all_tasks.apply_async()
     return None
