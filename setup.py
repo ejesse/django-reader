@@ -15,7 +15,7 @@ setup(
     author = 'Joshua Williams',
     author_email = 'jowillia@gmail.com',
 
-    packages = find_packages('src'),
+    packages = ['reader'],
     package_dir = {'': 'src'},
 
     install_requires = ['setuptools'],
