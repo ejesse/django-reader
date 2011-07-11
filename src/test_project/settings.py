@@ -77,8 +77,9 @@ CELERYBEAT_SCHEDULE = {
     },
 }
 
+
 CELERY_RESULT_BACKEND = "amqp"
-BROKER_HOST = "whitestar"
+BROKER_HOST = "serenity"
 BROKER_PORT = 5672
 BROKER_USER = "reader_user"
 BROKER_PASSWORD = "reader_pass"

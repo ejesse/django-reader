@@ -1,24 +1,12 @@
-{% if FeedName %}
-<div id="title">
-{{ FeedName }}
-<div>
-<div id="list">
-{% endif %}
-{% for Feed in FeedList %}
-<div id="entry">
-<div id="title">
-{{ Feed.title }}
-</div>
-<div id="link">
-{{ Feed.link }}
-</div>
-<div id="desc">
-{{ Feed.description }}
-</div>
-
-
-</div>
+<table border="0">
+<tr>
+	<td><strong>Title</strong></td>
+	<td><strong>Last Checked</strong></td>
+</tr>
+{% for feed in feeds %}
+<tr>
+	<td>{{ feed.title }}</td>
+	<td>{{ feed.last_checked }}</td>
+</tr>
 {% endfor %}
-{% if FeedName %}
-</div>
-{% endif %}
+</table>

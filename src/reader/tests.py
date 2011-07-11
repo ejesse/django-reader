@@ -3,7 +3,7 @@ from django.test.client import Client
 
 from reader.models import Feed, FeedEntry
 from reader.forms import FeedForm
-from reader.views import markRead
+from reader.views import mark_read
 from django.core.urlresolvers import reverse
 
 import unittest, new, os, sys, glob, re, urllib, string, posixpath, time, codecs

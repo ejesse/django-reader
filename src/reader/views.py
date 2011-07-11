@@ -58,10 +58,17 @@ def add_feed(request):
     feed.fetch()
     return HttpResponseRedirect(reverse('my_entries'))
 
+@login_required
 def feeds(request):
-    if request.POST is not None:
+    if request.method == 'POST':
         return add_feed(request)
-    return None
+    user = request.user
+    feeds = Feed.objects.filter(usercategory__in=UserCategory.objects.filter(user=user))
+    
+    template = 'feedlist.html'
+    context = RequestContext(request)
+    context['feeds'] = feeds
+    return render_to_response(template,context)
     
 def mark_read(request, pk):
     state = ''
