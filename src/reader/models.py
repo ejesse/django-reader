@@ -5,7 +5,7 @@ from django.db.models.signals import post_save
 from django.db.models.signals import post_syncdb
 from django.db.models.signals import m2m_changed
 from django.dispatch import receiver
-
+from reader.utils import safe_unicode
 import datetime
 from time import mktime
 import feedparser
@@ -24,9 +24,11 @@ class Feed(models.Model):
     
     def fetch(self):
         parsed_feed = feedparser.parse(self.url)
-        self.title = parsed_feed.channel.title
-        self.description = parsed_feed.channel.description
-        self.link = parsed_feed.feed.link
+        self.title = safe_unicode(parsed_feed.channel.title)
+        self.description = safe_unicode(parsed_feed.channel.description)
+        print 'description:'
+        print safe_unicode(parsed_feed.channel.description)
+        self.link = safe_unicode(parsed_feed.feed.link)
         self.version = parsed_feed.version
         self.encoding = parsed_feed.encoding
         if not self.last_checked:
@@ -78,15 +80,19 @@ class FeedEntry(models.Model):
     date_updated = models.DateTimeField(blank=True,null=True)
 
     def populate_from_parsed_feed_entry(self,feed_entry):
-        self.link = feed_entry.link
-        self.title = feed_entry.title
+        self.link = safe_unicode(feed_entry.link)
+        self.title = safe_unicode(feed_entry.title)
         try:
-            self.author = feed_entry.author
+            self.author = safe_unicode(feed_entry.author)
         except:
             pass
-        self.summary_detail = feed_entry.summary_detail.value
+        self.summary_detail = safe_unicode(feed_entry.summary_detail.value)
         try:
-            self.description = feed_entry.description
+            self.description = safe_unicode(feed_entry.description)
+            print 'link'
+            print self.link
+            print 'description:'
+            print safe_unicode(feed_entry.description)
         except:
             pass
         self.date_published = datetime.datetime.fromtimestamp(mktime(feed_entry.date_parsed))

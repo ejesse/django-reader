@@ -1,8 +1,6 @@
 {% include 'feed_form.html' %}
 {% for entry in entries %}
 <p>
-<h2><a href="{{ entry.entry.link }}">{{ entry.entry.title }}</a></h2>
-{{ entry.entry.date_published }}<br/>
-{% autoescape off %}{{ entry.entry.summary_detail }}{% endautoescape %}
+<a href="{{ entry.entry.link }}">{{ entry.entry.title }}</a> {{ entry.entry.date_published }} from {{ entry.entry.feed.title }}
 </p>
 {% endfor %}

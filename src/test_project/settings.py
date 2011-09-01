@@ -69,13 +69,15 @@ TEMPLATE_DIRS = (
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
 )
-from datetime import timedelta
-CELERYBEAT_SCHEDULE = {
-    "runs-every-300-seconds": {
-        "task": "reader.tasks.fetch_feeds",
-        "schedule": timedelta(seconds=300)
-    },
-}
+#from datetime import timedelta
+#CELERYBEAT_SCHEDULE = {
+#    "runs-every-300-seconds": {
+#        "task": "reader.tasks.fetch_feeds",
+#        "schedule": timedelta(seconds=300)
+#    },
+#}
+
+CELERYBEAT_SCHEDULER='djcelery.schedulers.DatabaseScheduler'
 
 
 CELERY_RESULT_BACKEND = "amqp"
@@ -94,3 +96,9 @@ INSTALLED_APPS = (
     'djcelery',
     'reader',
 )
+
+
+try:
+    from local_settings import *    
+except ImportError:
+    pass
